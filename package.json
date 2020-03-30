@@ -1,0 +1,17 @@
+{
+  "name": "rottenchicken",
+  "version": "1.0.0",
+  "description": "ds project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "UKth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "iconv": "^2.2.3",
+    "pg": "^6.1.5"
+  }
+}
